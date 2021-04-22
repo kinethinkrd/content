@@ -7,7 +7,7 @@ const logoWhite =
   "https://github.com/kinethinkrd/educacion_oportuna/blob/master/img/logowhite.png";
 
 const logoShortMargin =
-  "https://github.com/kinethinkrd/educacion_oportuna/blob/master/img/kinethink_smallmargin.png";
+  "https://raw.githubusercontent.com/kinethinkrd/educacion_oportuna/master/img/kinethink_smallmargin.png";
 
 const linksElements = [
   { texto: "Amazon list", enlace: "", imagen = ""},

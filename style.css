@@ -16,6 +16,7 @@ Naranja
 * {
   box-sizing: border-box;
   margin: 0;
+  padding: 0;
 }
 
 body {
@@ -80,11 +81,14 @@ nav {
 }
 
 @media only screen and (max-width: 600px) {
+  #logo {
+    width: 300px;
+  }
   .link-img {
     width: 35px;
   }
   .content {
-    font-size: 12px;
+    font-size: 16px;
     text-align: center;
     right: 0;
   }
